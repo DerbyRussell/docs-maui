@@ -1,6 +1,6 @@
 # .NET MAUI Docs
 
-This repository contains the conceptual documentation for .NET Multi-platform App UI (MAUI). It's published at the [.NET MAUI documentation site](https://learn.microsoft.com/dotnet/maui).
+This repository contains the conceptual documentation for .NET Multi-platform App UI (MAUI). This repository is exclusive to MAUI-GTK which uses Gtk 3.0.  The documents here are the abilities of MAUI-GTK
 
 ## Code of Conduct
 

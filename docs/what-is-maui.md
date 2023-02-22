@@ -1,6 +1,6 @@
 ---
-title: "What is .NET MAUI?"
-description: ".NET Multi-platform App UI (.NET MAUI) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML."
+title: "What is .NET MAUI-GTK?"
+description: ".NET Multi-platform App UI (.NET MAUI) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML on the GTK platform."
 ms.date: 05/13/2022
 ---
 
