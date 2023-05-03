@@ -8,6 +8,7 @@ ms.date: 04/13/2022
 
 .NET Multi-platform App UI (.NET MAUI) apps can be written for the following platforms:
 
+- GTK 3.0
 - Android 5.0 (API 21) or higher.
 - iOS 11 or higher, using the latest release of Xcode.
 - macOS 10.15 or higher, using Mac Catalyst.
@@ -15,6 +16,7 @@ ms.date: 04/13/2022
 
 .NET MAUI Blazor apps have the following additional platform requirements:
 
+- GTK does not yet support Blazor apps.
 - Android 7.0 (API 24) or higher is required
 - iOS 14 or higher is required.
 - macOS 11 or higher, using Mac Catalyst.

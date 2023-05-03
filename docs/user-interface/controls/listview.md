@@ -6,6 +6,8 @@ ms.date: 03/10/2022
 
 # ListView
 
+GTK 3.0 platform does not support the ListView control.  Use ScrollView with a Grid instead.
+
 [![Browse sample.](~/media/code-sample.png) Browse the sample](/samples/dotnet/maui-samples/userinterface-listview)
 
 The .NET Multi-platform App UI (.NET MAUI) <xref:Microsoft.Maui.Controls.ListView> displays a scrollable vertical list of selectable data items. While <xref:Microsoft.Maui.Controls.ListView> manages the appearance of the list, the appearance of each item in the list is defined by a `DataTemplate` that uses a <xref:Microsoft.Maui.Controls.Cell> to display items. .NET MAUI includes cell types to display combinations of text and images, and you can also define custom cells that display any content you want. <xref:Microsoft.Maui.Controls.ListView> also includes support for displaying headers and footers, grouped data, pull-to-refresh, and context menu items.
